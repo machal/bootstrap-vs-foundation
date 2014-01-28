@@ -1,0 +1,22 @@
+{
+  "name": "bootstrap-test",
+  "version": "0.0.1",
+  "authors": [
+    "Martin Michalek <martin@vzhurudolu.cz>"
+  ],
+  "description": "Test Bootstrapu.",
+  "main": "index.html",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.0.3",
+    "respond": "~1.4.2"
+  }
+}

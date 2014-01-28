@@ -1,0 +1,17 @@
+
+// Promenne
+
+@nav-tabs-active-link-hover-bg: @gray-lighter;
+
+// Varianta s vyplnenou barvou
+
+.tab-pane-filled {
+	background: @gray-lighter;
+	background: radial-gradient(to top left, darken(@gray-lighter, 5%) 0%, @gray-lighter 20%);
+	padding: 
+		@padding-large-vertical*4 
+		@padding-large-horizontal;
+	border-left: 1px @nav-tabs-border-color solid;
+	border-right: 1px @nav-tabs-border-color solid;
+	border-bottom: 1px @nav-tabs-border-color solid;
+}
