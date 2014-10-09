@@ -7,7 +7,7 @@
   "description": "Bootstrap vs. Foundation. Frontend framework comparison.",
   "main": "index.html",
   "license": "MIT",
-  "private": true,
+  "private": false,
   "ignore": [
     "**/.*",
     "node_modules",
