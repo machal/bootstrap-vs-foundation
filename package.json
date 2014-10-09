@@ -1,0 +1,23 @@
+{
+  "name": "bootstrap-vs-foundation",
+  "version": "1.0.0",
+  "description": "Bootstrap vs. Foundation ",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/machal/bootstrap-vs-foundation.git"
+  },
+  "author": "Martin Michalek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/machal/bootstrap-vs-foundation/issues"
+  },
+  "homepage": "https://github.com/machal/bootstrap-vs-foundation",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-copy": "^0.6.0"
+  }
+}
